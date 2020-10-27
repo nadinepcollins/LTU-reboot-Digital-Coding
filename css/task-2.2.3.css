@@ -1,0 +1,26 @@
+img {
+    max-width: 300px;
+}
+
+h1 {
+    font-family: cursive; color: darkslateblue; font-weight: bold; font-size: 60px;
+}
+
+h2
+ {color: whitesmoke}
+
+ h3
+ {color: whitesmoke}
+
+ h4
+ {color: whitesmoke}
+
+ h5
+ {color: whitesmoke}
+
+ h6
+ {color: whitesmoke}
+
+body {background-color: rosybrown;}
+
+p { color: white; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
