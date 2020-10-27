@@ -21,6 +21,14 @@ h2
  h6
  {color: whitesmoke}
 
+ p em {
+     color: coral;
+ }
+
+p strong {
+    color: lavender
+}
+
 body {background-color: rosybrown;}
 
 p { color: white; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
